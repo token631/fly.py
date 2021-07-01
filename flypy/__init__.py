@@ -1,2 +1,2 @@
 from .exceptions import *
-from .flypClient import *
+from .flypyClient import *
